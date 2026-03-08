@@ -1,0 +1,14 @@
+{
+  "products": [
+    { "name": "Tube Light Installation", "category": "electrical", "price": "150", "weight": "per point", "tamilName": "Tube Light Fitting" },
+    { "name": "Fan Installation/Repair", "category": "electrical", "price": "250", "weight": "per unit", "tamilName": "Fan Fitting" },
+    { "name": "Tap Replacement", "category": "plumbing", "price": "100", "weight": "per tap", "tamilName": "Tap Matrudhal" },
+    { "name": "Motor Pump Service", "category": "plumbing", "price": "500", "weight": "service", "tamilName": "Motor Service" },
+    { "name": "Switch Board Repair", "category": "electrical", "price": "200", "weight": "per board", "tamilName": "Switch Board" },
+    { "name": "Pipeline Leakage", "category": "plumbing", "price": "350", "weight": "min", "tamilName": "Leakage Sari Seidhal" },
+    { "name": "Water Heater Installation", "category": "installation", "price": "600", "weight": "unit", "tamilName": "Heater Fitting" },
+    { "name": "General Maintenance", "category": "others", "price": "300", "weight": "visit", "tamilName": "General Service" },
+    { "name": "Wiring Work", "category": "electrical", "price": "0", "weight": "estimate", "tamilName": "Wiring Work" },
+    { "name": "Blockage Removal", "category": "plumbing", "price": "400", "weight": "service", "tamilName": "Adaipu Eduthal" }
+  ]
+}
